@@ -16,32 +16,15 @@ A股
 鸿蒙
 HarmonyOS
 任正非
-
 比亚迪
 王传福
-
 大疆
 DJI
 
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
 电影
-
-时政
-大作文
-执法
-江苏
+美剧
+影院
+电视剧
 
 字节
 bytedance
@@ -51,25 +34,20 @@ bytedance
 
 特斯拉
 马斯克
-
 微软
 Microsoft
-
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
 
 谷歌
 google
 gemini
 deepmind
-
 chatgpt
 openai
 sora
-
 claude
 Anthropic
 
@@ -82,22 +60,20 @@ ai
 !gai
 人工智能
 DeepSeek
-
 自动驾驶
-
 机器人
 
 美国
 日本
 韩国
+中国
+台湾
+香港
 @20
 
 芯片
 光刻机
-
 科技
-
-台湾
 
 苏州
 生活
@@ -107,14 +83,24 @@ DeepSeek
 生活
 +便利
 
-新质生产力
-
 月球
 登月
 火星
 宇宙
 飞船
 航空
+
+新干
+左权
+北理工
+北京理工大学
+
+时政评论
+大作文
+行政执法
+行测
+考公常识
+江苏政务
 
 瑞晟
 realtek
