@@ -16,10 +16,13 @@ A股
 鸿蒙
 HarmonyOS
 任正非
+@4
+
 比亚迪
 王传福
 大疆
 DJI
+@4
 
 电影
 美剧
@@ -39,22 +42,23 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
+@10
+
 AMD
+苹果
+@4
 
 谷歌
 google
 gemini
+@2
+
 deepmind
 chatgpt
 openai
 sora
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -69,7 +73,7 @@ DeepSeek
 中国
 台湾
 香港
-@20
+@15
 
 芯片
 光刻机
